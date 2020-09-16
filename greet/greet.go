@@ -2,10 +2,10 @@ package greet
 
 var emoji = "😄"
 
-func English() {
+func English() string {
 	return "Hi " + emoji
 }
 
-func Italian() {
+func Italian() string {
 	return "Ciao " + emoji
 }

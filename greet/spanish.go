@@ -1,5 +1,5 @@
 package greet
 
-func Spanish() {
+func Spanish() string {
 	return "Hola " + emoji
 }
